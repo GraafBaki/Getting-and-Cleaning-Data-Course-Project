@@ -1,4 +1,5 @@
 # read data
+
 library(dplyr)
 
 Subject_test<-read.table("./UCI HAR Dataset/test/subject_test.txt")
